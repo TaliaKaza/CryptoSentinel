@@ -3,3 +3,4 @@ Initial notes...
 - Auto-update 7181
 - Auto-update 8383
 aiohttp==2.6.9
+requests==2.2.9
