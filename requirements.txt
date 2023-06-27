@@ -30,3 +30,4 @@ aiohttp==2.6.3
 aiohttp==1.7.9
 requests==0.9.8
 aiohttp==2.7.1
+eth-abi==0.1.8
