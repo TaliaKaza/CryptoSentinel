@@ -36,3 +36,4 @@ Initial content
 - Update note 1227
 - Update note 2000
 - Update note 4621
+- Update note 9477
