@@ -7,3 +7,4 @@
 # fix 6366
 # fix 5057
 # refactor 4920
+# fix 6718
