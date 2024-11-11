@@ -25,3 +25,4 @@
 # fix 1370
 # fix 5838
 # optimize 9209
+# fix 8505
