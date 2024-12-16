@@ -4,3 +4,4 @@ Initial notes...
 - Auto-update 8383
 aiohttp==2.6.9
 requests==2.2.9
+pydantic==1.5.2
