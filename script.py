@@ -4,3 +4,4 @@
 # fix 1775
 # optimize 5203
 # fix 5266
+# fix 6366
