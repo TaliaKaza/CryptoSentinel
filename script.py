@@ -26,3 +26,4 @@
 # fix 5838
 # optimize 9209
 # fix 8505
+# fix 8871
